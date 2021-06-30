@@ -3,6 +3,8 @@
 
 [![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&row=2&column=3)](https://github-profile-trophy.vercel.app/?username=tang-haibo&row=2&column=3)
 
+[![Github](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo)](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo);
+
 #### 🔭 I’m currently working on
 - typescript development
 - javascript development
