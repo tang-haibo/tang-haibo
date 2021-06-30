@@ -5,6 +5,8 @@
 
 [![Github](https://github-readme-stats.vercel.app/api/top-langs?username=tang-haibo&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=tang-haibo&show_icons=true&locale=en&layout=compact)
 
+[![Github](https://github-readme-stats.vercel.app/api?username=manyuanrong&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=manyuanrong&show_icons=true&locale=en)
+
 [![Github](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo)](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo);
 
 #### 🔭 I’m currently working on
