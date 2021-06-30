@@ -3,8 +3,6 @@
 
 [![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&column=4&margin-w=16&margin-h=16)](https://github-profile-trophy.vercel.app/?username=tang-haibo&column=4&margin-w=16&margin-h=16)
 
-<!-- [![Github](https://github-readme-stats.vercel.app/api/top-langs?username=tang-haibo&show_icons=true&locale=en&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs?username=tang-haibo&show_icons=true&locale=en&layout=compact) -->
-
 [![Github](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)
 
 [![Github](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo)](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo);
