@@ -26,12 +26,13 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": ["lint-staged", "html"]
+      "pre-commit": ["lint-staged"]
     }
   },
   "lint-staged": {
     "**/*.{md}": [
-      "prettier -w"
+      "prettier -w",
+      "html"
     ]
   }
 }
