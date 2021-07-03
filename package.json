@@ -24,9 +24,5 @@
     "pre-commit": "^1.2.2",
     "prettier": "^2.3.2"
   },
-  "husky": {
-    "hooks": {
-      "pre-commit": ["html"]
-    }
-  }
+  "pre-commit": ["html"]
 }
