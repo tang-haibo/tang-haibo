@@ -33,7 +33,6 @@
   },
   "lint-staged": {
     "**/*.{md}": [
-      "npm run test",
       "prettier -w",
       "npm run html"
     ]
