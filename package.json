@@ -33,9 +33,6 @@
   "lint-staged": {
     "**/*.{md}": [
       "prettier -w"
-    ],
-    "**/*.{js,ts}": [
-      "yarn lint:fix"
     ]
   }
 }
