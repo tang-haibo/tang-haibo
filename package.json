@@ -32,6 +32,7 @@
   },
   "lint-staged": {
     "**/*.{md}": [
+      "echo '开始执行'",
       "prettier -w",
       "npm run html"
     ]
