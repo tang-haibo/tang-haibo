@@ -1,4 +1,3 @@
-同步一个 fork
 # 配置一个 remote 实现与主仓库同步
 
 主要使用 git remote -v 查看远程状态。
