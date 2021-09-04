@@ -24,4 +24,6 @@
 
 [![Github](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo)](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo)
 
-[![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=tang-haibo&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tang-haibo&layout=compact)
+[![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=tang-haibo&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tang-haibo&layout=compact)
+
+[![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)
