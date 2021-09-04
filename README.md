@@ -8,7 +8,7 @@
 
 [![Github](https://komarev.com/ghpvc/?username=tang-haibo&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=tang-haibo&label=Profile%20views&color=0e75b6&style=flat)
 
-[![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit[![Github](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)
+[![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)](https://github-profile-trophy.vercel.app/?username=tang-haibo&title=Commit)[![Github](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)
 
 [![Github](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo)](https://github-readme-streak-stats.herokuapp.com/?user=tang-haibo);
 
