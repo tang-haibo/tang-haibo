@@ -1,4 +1,4 @@
-### Hi there I’m tang-haibo
+### [![Github](https://komarev.com/ghpvc/?username=tang-haibo&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=tang-haibo&label=Profile%20views&color=0e75b6&style=flat) Hi there I’m tang-haibo
 
 - [Hi there I’m tang-haibo](#hi-there-im-tang-haibo)
   - [🌱  I’m currently working on](#-im-currently-working-on)
@@ -19,8 +19,6 @@
 #### 🌱 I posted it recently
 - [ieval](https://www.npmjs.com/package/ieval)
 - [app-redux](https://www.npmjs.com/package/app-redux)
-
-[![Github](https://komarev.com/ghpvc/?username=tang-haibo&label=Profile%20views&color=0e75b6&style=flat)](https://komarev.com/ghpvc/?username=tang-haibo&label=Profile%20views&color=0e75b6&style=flat)
 
 [![Github](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)](https://github-readme-stats.vercel.app/api?username=tang-haibo&show_icons=true&locale=en)
 
