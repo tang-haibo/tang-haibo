@@ -16,11 +16,12 @@
 - javascript development
 - html css development
 - vue react development
+
 #### 🌱 I’m currently learning
 - java development
 - Assembly language
 - c and c++ development
 
 #### 🌱 I posted it recently
-[ieval](https://www.npmjs.com/package/ieval)
-[app-redux](https://www.npmjs.com/package/app-redux)
+- [ieval](https://www.npmjs.com/package/ieval)
+- [app-redux](https://www.npmjs.com/package/app-redux)
