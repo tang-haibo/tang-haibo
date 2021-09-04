@@ -26,4 +26,4 @@
 
 [![Github](https://github-readme-stats.vercel.app/api/top-langs/?username=tang-haibo&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=tang-haibo&layout=compact)
 
-[![GitHub](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=A)](https://github-profile-trophy.vercel.app/?username=ryo-ma&rank=A)
+[![GitHub](https://github-profile-trophy.vercel.app/?username=tang-haibo&rank=B,A,AA,AAA,S,SS,SSS)](https://github-profile-trophy.vercel.app/?username=tang-haibo&rank=B,A,AA,AAA,S,SS,SSS)
